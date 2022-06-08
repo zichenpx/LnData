@@ -1,0 +1,26 @@
+.searchpanel {
+  width: 85%;
+  background: rgb(95, 98, 98);
+  margin: auto;
+  color: white;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom:20px;
+  padding-top:10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit_btn {
+  margin: 20px;
+}

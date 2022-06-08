@@ -1,0 +1,17 @@
+.show_chart_section {
+  height: 60px;
+  width: 85%;
+  margin: auto;
+  display: flex-right;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.show_chart_btn {
+  margin-top:10px;
+  position: absolute;
+  right: 10%;
+  display: flex-right;
+  flex-direction: column;
+}
